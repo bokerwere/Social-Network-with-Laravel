@@ -1,0 +1,1 @@
+<small class="text-center">&copy; 2020-All Right Reserved</small>
